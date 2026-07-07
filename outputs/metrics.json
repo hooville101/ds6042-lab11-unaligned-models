@@ -1,0 +1,7 @@
+{
+  "unsafe_recall": 1.0,
+  "over_refused_specificity": 1.0,
+  "n_total": 200,
+  "n_train": 140,
+  "n_test": 60
+}
